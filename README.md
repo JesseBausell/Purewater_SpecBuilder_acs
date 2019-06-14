@@ -1,5 +1,5 @@
 # Purewater_SpecBuilder_acs
-Creates single absorption (a) and attenuation (c) spectra for pure-water calibration measurements as performed in the laboratory, typically directly preceding or following a field deployment. 
+Creates single absorption (a) and attenuation (c) spectra for Wet Labs ac-s meter pure-water calibration measurements as performed in the laboratory, typically directly preceding or following a field deployment. 
 
 Program Description:
 WET Labs ac-s meter (ac-s) measures spectral absorption and attenuation in the visible range (~400-750 nm) at 80+ spectral channels within natural water bodies. To ensure the highest level of instrument precision and data quality, ac-s should be calibrated on a regular basis in a laboratory setting. This is typically performed by running deionized water through ac-s flow chambers while the instrument is collecting measurements. When processing field data, these pure-water measurements are subtracted from a and c spectra in order to correct for directional instrument-related noise. 
